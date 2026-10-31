@@ -278,7 +278,7 @@ Cocok: 4/5 = 80% match score
 ## 👥 Akun Default
 
 ### Admin
-- **Email**: `admin@skillmatch.id`
+- **Email**: `dapplenathea@gmail.com`
 - **Password**: `Admin123!`
 - Akses: Dashboard admin, kelola users & posts
 
@@ -382,9 +382,9 @@ php artisan route:list
 
 ## 📞 Kontak & Support
 
-- **Developer**: Tim Proyek TI - Teknik Informatika Unila
+- **Developer**: Kiryuu
 - **Tahun**: 2026
-- **Email**: admin@skillmatch.id
+- **Email**: dapplenathea@gmail.com
 
 ---
 
